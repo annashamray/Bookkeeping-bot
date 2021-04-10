@@ -1,0 +1,13 @@
+# Developers
+.idea/
+.git/
+*.pyc
+__pycache__
+
+# Environment
+/env/
+.env
+requirements.in
+
+# Secrets
+creds.json
